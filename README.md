@@ -4,16 +4,15 @@ Aplikasi Pelaporan Pengaduan Masyarakat
 
 Aplikasi ini dibuat dengan berbagai tools :
 
-Visual Studio Code
-PHP versi 5.6.38
-Mysql Server
-dataTable
-SweetAlert
+-Visual Studio Code
+-PHP versi 5.6.38
+-Mysql Server
+-dataTable
+-SweetAlert
 
 Tentang Aplikasi
 Dalam aplikasi ini terdapat 3 lever user yaitu
-
-admin
-petugas
-masyarakat
+-admin
+-petugas
+-masyarakat
 
